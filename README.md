@@ -6,6 +6,23 @@
 ##### 피그마/디스코드/노션 따로사용하세요?
 ##### ACCORD 하나로 협업해요!
 
+
+---
+### 리포지터리 링크
+
+* **소개 링크 :** https://github.com/yoda-yoda/Project4_accord-overview
+* **spring :** https://github.com/yoda-yoda/Project4_accord-backend
+* **react :** https://github.com/yoda-yoda/Project4_accord-frontend
+* **api-gateway :** https://github.com/yoda-yoda/Project4_accord-api-gateway
+* **go-backend :** https://github.com/yoda-yoda/Project4_accord-go-backend
+* **signaling server :** https://github.com/yoda-yoda/Project4_accord-signaling-server
+* **turn server :** https://github.com/yoda-yoda/Project4_accord-turn-server
+* **stun server :** https://github.com/yoda-yoda/Project4_accord-stun-server 
+
+
+---
+
+
 # 목차
 1. [팀원 소개 및 역할](#팀원-소개-및-역할)
 2. [사용 기술 스택](#사용-기술-스택)
