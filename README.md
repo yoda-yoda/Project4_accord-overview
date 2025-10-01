@@ -11,8 +11,8 @@
 ### 리포지터리 링크
 
 * **소개 링크 :** https://github.com/yoda-yoda/Project4_accord-overview
-* **spring :** https://github.com/yoda-yoda/Project4_accord-backend
-* **react :** https://github.com/yoda-yoda/Project4_accord-frontend
+* **backend (spring) :** https://github.com/yoda-yoda/Project4_accord-backend
+* **frontend (react) :** https://github.com/yoda-yoda/Project4_accord-frontend
 * **api-gateway :** https://github.com/yoda-yoda/Project4_accord-api-gateway
 * **go-backend :** https://github.com/yoda-yoda/Project4_accord-go-backend
 * **signaling server :** https://github.com/yoda-yoda/Project4_accord-signaling-server
